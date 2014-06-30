@@ -1,5 +1,5 @@
 
-license "Utility classes for the Parse/Facebook integration.
+license "Useful wrappers for the Parse/Facebook integration.
 Copyright (c) 2014 Nikolay Zapolnov (zapolnov@gmail.com).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -22,7 +22,7 @@ THE SOFTWARE."
 
 import parse-com
 import facebook-sdk
-import ios-facebook-util
+import facebook-util
 import ios-util
 
 public_headers
